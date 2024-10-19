@@ -1,10 +1,24 @@
-# Zen Harmony Team
-Zen Harmony, symbolizing harmony, encapsulates the essence of the "Zhihai Rongxin" team.
+<h3 align="center">
+  <img src="https://avatars.githubusercontent.com/u/185505786?s=200&v=4"/>
 
-"Zhi," equivalent to "wisdom," represents intelligence as well as aspirations and ambitions. It highlights that team members possess not only intelligence and wisdom but also lofty aspirations and firm beliefs.
+  志海融新<br>
+  Zen Harmony Team
+</h3>
 
-"Sea" symbolizes vastness and infinity. It implies that the team is as inclusive as the ocean, capable of accepting different ideas and perspectives, providing a free and open communication platform for its members.
+&nbsp;
 
-"Rong" signifies integration and convergence. It emphasizes close cooperation and mutual learning among team members, collectively pooling their wisdom and talents into a powerful force.
+## What does Zen Harmony's Chinese name mean?
 
-"New" represents innovation and progress. It suggests that the team is dedicated to continually exploring new fields and opportunities, constantly innovating, and creating more value and achievements for both the team and its members.
+"志海融新", symbolizing harmony, encapsulates the essence of Zen Harmony Team.
+
+### 志
+"志" equivalent to "智" represents intelligence as well as aspirations and ambitions. It highlights that team members possess not only intelligence and wisdom but also lofty aspirations and firm beliefs.
+
+### 海
+"海" symbolizes vastness and infinity. It implies that the team is as inclusive as the ocean, capable of accepting different ideas and perspectives, providing a free and open communication platform for its members.
+
+### 融
+"融" signifies integration and convergence. It emphasizes close cooperation and mutual learning among team members, collectively pooling their wisdom and talents into a powerful force.
+
+### 新
+"新" represents innovation and progress. It suggests that the team is dedicated to continually exploring new fields and opportunities, constantly innovating, and creating more value and achievements for both the team and its members.

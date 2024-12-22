@@ -32,4 +32,5 @@
 <a href="https://www.cloudflare.com"><img height="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/cloudflare-text.png"></a>
 > Cloudflare 为我们提供 Cdn 及域名解析服务。
 
-
+<a href="https://cloud.tencent.com"><img height="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/tencent-brand.png"></a>
+> Tencent 为我们提供域名注册服务。

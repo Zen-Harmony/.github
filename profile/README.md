@@ -7,7 +7,7 @@
 
 &nbsp;
 
-## 志海融新寓意着智慧包容，合作创新，共铸辉煌！
+# 志海融新寓意着智慧包容，合作创新，共铸辉煌！
 
 ## 志
 “志” 通 “智”，代表智慧，也指有志气、有抱负。
@@ -21,3 +21,15 @@
 
 ## 新
 “新” 则代表着创新和进步，寓意团队致力于不断探索新的领域和机会，不断推陈出新，为团队和成员们创造更多的价值和成就。
+
+## 鸣谢
+
+特别感谢这些支持我们核心基础设施的优质服务：
+
+<a href="https://github.com"><img height="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png"></a>
+> GitHub 容许我们托管 Git 仓库及运行测试。
+
+<a href="https://www.cloudflare.com"><img height="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/cloudflare-color.png"></a>
+> GitHub 容许我们托管 Git 仓库及运行测试。
+
+

@@ -26,7 +26,7 @@
 
 特别感谢这些支持我们核心基础设施的优质服务：
 
-<a href="https://github.com"><img height="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png"></a>
+<a href="https://github.com"><img height="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.13.0/files/light/github-text.png"></a>
 > GitHub 容许我们托管 Git 仓库及运行测试。
 
 <a href="https://www.cloudflare.com"><img height="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/cloudflare-text.png"></a>
